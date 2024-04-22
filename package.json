@@ -61,7 +61,7 @@
     "@fontsource/noto-sans-jp": "^4.3.0",
     "@fontsource/noto-sans-sc": "^4.3.0",
     "@fontsource/noto-sans-tc": "^4.3.0",
-    "@prisma/client": "2.23.0",
+    "@prisma/client": "3.13.0",
     "@reduxjs/toolkit": "^1.5.1",
     "bcryptjs": "^2.4.3",
     "chalk": "^4.1.1",
